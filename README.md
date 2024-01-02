@@ -37,8 +37,8 @@
 ![Screenshot 2024-01-02 230010](https://github.com/sasi1324/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150313315/ec13669f-841c-4206-ad6c-16f91d0b9522)
 
 
-### Name:
-### Register Number:
+### Name: SASINTHARA S
+### Register Number: 23005130
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
